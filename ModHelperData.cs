@@ -7,6 +7,6 @@ public static class ModHelperData
 
     public const string Description = "An empty mod";
 
-    public const string RepoOwner = "Kai"; // TODO add your github username hero, also in the download url in README.md
-    public const string RepoName = "UCanr=tWin"; // TODO add your repo name here, also in the download url in README.md
+    public const string RepoOwner = "bguehbguegureguer"; // TODO add your github username hero, also in the download url in README.md
+    public const string RepoName = "UCantWin"; // TODO add your repo name here, also in the download url in README.md
 }
