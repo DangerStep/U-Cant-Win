@@ -60,7 +60,7 @@ public class UCantWin : BloonsTD6Mod
                 Il2CppAssets.Scripts.Models.Bloons.BloonModel bloon = Game.instance.model.GetBloon(group.bloon);
                 if (bloon.FindChangedBloonId(bloonModel => bloonModel.isMoab = true, out string? moabBloon))
                 {
-                    group.bloon = moabBloon;
+                    group.bloon = bloonType.BAD;
                 }
             }
         }
